@@ -43,6 +43,7 @@ Library yang saya gunakan adalah:
 - rest server https://github.com/chriskacerguis/codeigniter-restserver
 - rest client http://docs.guzzlephp.org/en/stable/
 
-   
+Dummy data 
+- https://www.mockaroo.com/
     
     
