@@ -1,5 +1,5 @@
 Frame Work : CodeIgniter-3.1.10.zip
-SEST full API
+RESTfull API
 dumy data : "https://www.mockaroo.com/";
 Library : 
 	- https://github.com/chriskacerguis/codeigniter-restserver
