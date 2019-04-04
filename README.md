@@ -27,7 +27,7 @@ Method yang digunakan
   - Memberikan respon pesan berupa json dan status request bila sukses '200 OK' dan json berisi pesan 'Car deleted'
 
 client-front-end (Rest client)
-Setelah membuat restfull API diatas maka saya mencoba untuk membuat rest client untuk mengakses API yang diberikan oleh rest server,
+Setelah membuat restfull API diatas, untuk dapat dengan mudah menggunakannya maka membuat rest client untuk mengakses API yang diberikan oleh rest server,
 dengan restclient ini dapat dengan mudah melakukan CRUD terhadap server namun membutuhkan TOKEN-TOKO yang telah diberikan oleh server.
 Adapun yang dapa dilakukan REST API Client Toko Mobil Pak Ali diantaranya
   + Pada halaman pertama langsung menampilkan seluruh data mobil yang terdapat di dalam database server.
