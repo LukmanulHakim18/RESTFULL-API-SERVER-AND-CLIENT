@@ -1,6 +1,0 @@
-Frame Work : CodeIgniter-3.1.10.zip
-RESTfull API
-dumy data : "https://www.mockaroo.com/";
-Library : 
-	- https://github.com/chriskacerguis/codeigniter-restserver
-	- http://docs.guzzlephp.org/en/stable/
