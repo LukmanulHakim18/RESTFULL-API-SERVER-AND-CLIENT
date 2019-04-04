@@ -47,3 +47,4 @@ Dummy data
 - https://www.mockaroo.com/
     
     
+Pengembangan lanjutan dapat dilakukan dengan memberi keamanan yang lebih seperti AUTH  dan pemberian limiit akses tiap jamnya berdasarkan method yang di akses ke server.
