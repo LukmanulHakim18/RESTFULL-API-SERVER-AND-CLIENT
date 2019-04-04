@@ -1,7 +1,7 @@
 # RESTFULL-API-SERVER-AND-CLIENT
 toko_mobil_ali(Rest server)
 Restfull API yang saya buat ini menggunakan framework Codeigniter yang didalamnya terdapat methode GET, POST, PUT, dan DELETE. 
-keamanan yang digunakan yaitu menggunakan TOKEN-TOKO
+keamanan yang digunakan yaitu menggunakan TOKEN-TOKO.
 Methode yang digunakan 
 + GET (digunakan untuk mengambil data) data yang dihasilkan berupa json dan memberikan tatus request '200 OK'
   - untuk mengambil seluruh data mobil 
